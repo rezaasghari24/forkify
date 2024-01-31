@@ -1,4 +1,4 @@
-9626
+9627
 102C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@parcel\core\src\InternalConfig.js133496863285198090 0
 101C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\css-tree\lib\syntax\node\Block.js133496863305355565 0
 85C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\full\date133496863448625644 1
@@ -48,7 +48,7 @@
 92C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\abortcontroller-polyfill133496863253387842 1
 92C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\math\hypot.js133496863370277206 0
 96C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@swc\helpers\esm\_dispose.js133496863303096971 0
-59C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist133502172032366888 1
+59C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist133511510877469430 1
 88C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\nullthrows\README.md133496863243084240 0
 85C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\tslib\LICENSE.txt133496863253287905 0
 114C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@parcel\package-manager\src\JSONParseStream.js133496863260723289 0
@@ -56,7 +56,7 @@
 94C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\picomatch\lib\constants.js133496863234509560 0
 113C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\full\string\virtual\to-well-formed.js133496863448985416 0
 94C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\internals\queue.js133496863435483229 0
-81C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\recipeView.js133499545369822617 0
+81C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\recipeView.js133511475156848376 0
 86C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\yallist\yallist.js133496863236078592 0
 100C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\number\parse-float.js133496863434004164 0
 86C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\chalk\package.json133496863242104854 0
@@ -93,7 +93,7 @@
 114C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\caniuse-lite\data\features\css-focus-within.js133496863307953980 0
 124C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@swc\helpers\cjs\_class_apply_descriptor_destructure.cjs133496863253327880 0
 117C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\tokenizer\index.js133496863316838677 0
-65C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\index.html133500440501473293 0
+65C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\index.html133509884797076125 0
 121C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\scope\index.cjs133496863277762703 0
 85C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\commander\LICENSE133496863232370888 0
 85C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\sass\types\logger133496863287366747 1
@@ -171,7 +171,7 @@
 90C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\to-regex-range\LICENSE133496863236138552 0
 105C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\internals\try-node-require.js133496863450354557 0
 74C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\sass\_base.scss133496862592761911 0
-75C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\View.js133502170814588340 0
+75C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\View.js133511510873391976 0
 117C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\caniuse-lite\data\features\css-overflow-anchor.js133496863317338355 0
 138C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeStyleElement.js133496863275604051 0
 83C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\srcset\index.js133496863233799999 0
@@ -226,10 +226,10 @@
 103C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\features\queue-microtask.js133496863435423269 0
 98C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\full\iterator\every.js133496863361032942 0
 77C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@trysound133496863195793597 1
-71C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\config.js133496862592651979 0
+71C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\config.js133509938447398494 0
 88C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\semver\ranges\gtr.js133496863254577096 0
 99C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\features\reflect\set.js133496863439530717 0
-75C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\controller.js133502038820241044 0
+75C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\controller.js133510773535282974 0
 81C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\msgpackr\dist133496863274025034 1
 103C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\css-tree\cjs\syntax\node\Number.cjs133496863285807721 0
 95C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\date\set-year.js133496863439420798 0
@@ -249,10 +249,10 @@
 98C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\typed-array\keys.js133496863385719430 0
 100C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\stable\instance\slice.js133496863440200294 0
 105C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\css-tree\cjs\syntax\config\parser.cjs133496863286917022 0
-71C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\helper.js133496862592671973 0
+71C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\helper.js133510769340784929 0
 94C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\semver\functions\coerce.js133496863241235387 0
 83C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\globals\license133496863232340900 0
-70C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\model.js133500378132649757 0
+70C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\model.js133511483678246663 0
 119C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\css-select\lib\esm\pseudo-selectors\subselects.d.ts133496863284258671 0
 139C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\css-class-list.js133496863262292378 0
 87C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\detect-libc\LICENSE133496863239166675 0
@@ -270,7 +270,10 @@
 105C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\csso\node_modules\css-tree\cjs\parser133496863293173143 1
 100C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\lmdb\node_modules\node-addon-api133496863258834461 1
 126C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\font-face.cjs133496863269897593 0
-67C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views133502037291741913 1
+67C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views133503885255545072 1
+84C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\addRecipeView.js133509937310952171 0
+108C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\generator133496863321615696 1
+94C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\full\math\umulh.js133496863451004162 0
 114C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\htmlnano\lib\modules\removeAttributeQuotes.mjs133496863286437318 0
 102C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\caniuse-lite\data\features\cors.js133496863301597900 0
 90C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@parcel\diagnostic\src133496863237067977 1
@@ -278,7 +281,7 @@
 120C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\caniuse-lite\data\features\page-transition-events.js133496863353387737 0
 98C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\stable\array\filter.js133496863362352136 0
 105C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\modules\es.string.iterator.js133496863354686888 0
-84C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\bookmarksView.js133502136211777481 0
+84C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\bookmarksView.js133503214412296496 0
 92C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\js-yaml\lib\type\bool.js133496863237447741 0
 89C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\svgo\lib\svgo-node.js133496863257465316 0
 102C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\modules\es.date.to-json.js133496863350679366 0
@@ -293,9 +296,9 @@
 98C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\array\virtual\at.js133496863306624805 0
 85C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\paginationView.js133498652083213917 0
 114C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\css-select\lib\esm\pseudo-selectors\pseudos.js133496863256515906 0
-82C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\previewView.js133502151488133583 0
+82C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\previewView.js133511474193165149 0
 115C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\internals\regexp-unsupported-dot-all.js133496863437052257 0
-82C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\resultsView.js133502172031517407 0
+82C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\src\js\views\resultsView.js133502992627912446 0
 109C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\stable\instance\is-well-formed.js133496863377252868 0
 94C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\ordered-binary\.nyc_output133496863247591445 1
 81C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\tslib\modules133496863250279776 1
@@ -1933,14 +1936,14 @@
 97C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@swc\helpers\src\_dispose.mjs133496863334167905 0
 98C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\object\is-sealed.js133496863376753181 0
 90C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\react-refresh\babel.js133496863233809995 0
-98C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\full\typed-array\at.js133496863308563579 0
-103C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\actual\iterator\flat-map.js133496863364380857 0
-97C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\react-refresh\build-info.json133496863247571457 0
 103C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\stable\instance\index-of.js133496863371266599 0
 86C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@swc\core\bindings133496863252608331 1
 111C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@parcel\core\test\fixtures\config\.parcelrc133496863249510251 0
 119C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133496863260273585 0
 94C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\lightningcss\node\index.js133496863250049919 0
+98C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\full\typed-array\at.js133496863308563579 0
+103C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\actual\iterator\flat-map.js133496863364380857 0
+97C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\react-refresh\build-info.json133496863247571457 0
 97C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\stable\string\virtual133496863450244635 1
 89C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\react-refresh\LICENSE133496863232200994 0
 120C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\syntax\node\Atrule.js133496863303086984 0
@@ -3248,7 +3251,7 @@
 90C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\entities\lib\generated133496863261442849 1
 107C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\full\async-iterator\to-array.js133496863445607509 0
 91C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\entities\lib\index.d.ts133496863263421609 0
-78C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\icons.21bad73c.svg133502171526253803 0
+78C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\icons.21bad73c.svg133511510877019725 0
 104C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\modules\esnext.math.isubh.js133496863358924249 0
 95C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\entities\lib\index.d.ts.map133496863258034950 0
 94C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@parcel\utils\.eslintrc.js133496863240465859 0
@@ -3545,8 +3548,6 @@
 116C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\definition-syntax133496863322535139 1
 110C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@parcel\core\src\serializerCore.browser.js133496863305835284 0
 114C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\css-select\lib\esm\pseudo-selectors\aliases.js133496863235668844 0
-108C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\generator133496863321615696 1
-94C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\full\math\umulh.js133496863451004162 0
 96C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\abortcontroller-polyfill\src133496863251688897 1
 107C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\csso\node_modules\css-tree\lib\index.js133496863315659445 0
 96C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\css-tree\cjs\lexer\units.cjs133496863302417389 0
@@ -5873,7 +5874,7 @@
 101C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\internals\get-built-in.js133496863367778750 0
 113C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\internals\get-iterator-flattenable.js133496863367858706 0
 99C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\internals\same-value.js133496863438181561 0
-81C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.e37f48ea.js.map133502172032346904 0
+81C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.e37f48ea.js.map133511510877419469 0
 105C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\internals\get-substitution.js133496863368808157 0
 104C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\features\array\to-spliced.js133496863447826127 0
 105C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\internals\has-own-property.js133496863370087317 0
@@ -7189,7 +7190,7 @@
 117C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\caniuse-lite\data\features\css-media-scripting.js133496863315959207 0
 93C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\reflect\has.js133496863370177265 0
 98C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\reflect\own-keys.js133496863433364548 0
-82C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.f7626f62.css.map133502171526443674 0
+82C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.f7626f62.css.map133511510877349510 0
 106C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\reflect\set-prototype-of.js133496863439091003 0
 133C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\definitions.json133496863250549602 0
 93C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\core-js\es\reflect\set.js133496863439500725 0
@@ -9617,11 +9618,11 @@
 95C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\.bin\update-browserslist-db133496863454272136 0
 99C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\.bin\update-browserslist-db.cmd133496863454272136 0
 99C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\node_modules\.bin\update-browserslist-db.ps1133496863454272136 0
-80C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\favicon.8b2f57bf.png133502171526263794 0
+80C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\favicon.8b2f57bf.png133511510877019725 0
 79C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\forkify.3464ddca.js133496862591842478 0
 83C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\forkify.3464ddca.js.map133496862591872461 0
-78C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\icons.dfd7a6db.svg133502171526273790 0
-77C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.e37f48ea.js133502172032246968 0
-78C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.f7626f62.css133502171526253803 0
-70C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.html133502171526253803 0
-77C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\logo.726d37a8.png133502171526273790 0
+78C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\icons.dfd7a6db.svg133511510877019725 0
+77C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.e37f48ea.js133511510877249575 0
+78C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.f7626f62.css133511510877189608 0
+70C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\index.html133511510877189608 0
+77C:\Users\Reza Asghari\Documents\GitHub\forkify\forkify\dist\logo.726d37a8.png133511510877169627 0
