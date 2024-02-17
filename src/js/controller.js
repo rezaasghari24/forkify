@@ -8,7 +8,6 @@ import AddRecipeView from './views/addRecipeView.js';
 import addRecipeView from './views/addRecipeView.js';
 import { MODAL_CLOSE_SEC } from './config.js';
 import bookmarksView from './views/bookmarksView.js';
-
 // if (module.hot) {
 //   module.hot.accept();
 // }
